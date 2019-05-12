@@ -1,0 +1,58 @@
+Select a model.
+0.00
+Non-Flexnet
+0.00
+HP 9470
+100.00
+Dell D830
+10.00
+Latitude 4310
+20.00
+Latitude 5410
+20.00
+Latitude 6500
+20.00
+Latitude 6510
+20.00
+Latitude 6410ATG
+30.00
+Latitude 6420ATG
+30.00
+Latitude 6430ATG
+50.00
+Latitude E6320
+40.00
+Latitude E6330
+40.00
+Latitude 6520
+50.00
+Latitude 6530
+75.00
+Latitude 6540
+125.00
+Precision M4300
+20.00
+Precision M6300
+20.00
+Precision M4500
+20.00
+Precision M6400
+20.00
+Precision M6500
+80.00
+Precision M6600
+100.00
+Precision M6800
+100.00
+Precision M4600
+120.00
+Precision M4700
+175.00
+Precision M4800
+200.00
+Optiplex 780
+10.00
+Optiplex 790
+50.00
+Other
+0.00
